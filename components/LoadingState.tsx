@@ -1,0 +1,1 @@
+export default function LoadingState() { return <section className="loading card"><span className="spinner" /><div><strong>평가를 준비하고 있어요</strong><ol><li>입력 분석 중...</li><li>관련 기준 확인 중...</li><li>평가 기준 적용 중...</li><li>결과 생성 중...</li></ol></div></section>; }
